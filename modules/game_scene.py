@@ -1,6 +1,6 @@
 from modules.keys import Keys
 from modules.scene import Scene
-from modules.ui_compornents import *
+from modules.ui_components import *
 
 
 class GameScene(Scene):
