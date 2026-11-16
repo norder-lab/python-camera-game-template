@@ -1,0 +1,8 @@
+# Python / バイトコード
+modules/__pycache__/
+
+# Model
+models/
+
+# Aider
+.aider*
